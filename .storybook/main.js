@@ -4,6 +4,8 @@ export default {
   addons: [
     "@storybook/addon-a11y",
     "@storybook/addon-docs",
-    "@storybook/addon-vitest"
+    "@storybook/addon-controls",
+    "@storybook/addon-actions",
+    "@storybook/addon-backgrounds",
   ],
 };
